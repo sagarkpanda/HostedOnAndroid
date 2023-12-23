@@ -1,6 +1,6 @@
 # Host a Static Website on your Android Phone
 <p align="center">
-<img alt="Android" width="220px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Android_logo_2023_%28stacked%29.svg/1024px-Android_logo_2023_%28stacked%29.svg.png" style="padding-centre:10px;" />
+<img alt="Android" width="220px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/768px-Termux.svg.png" style="padding-centre:10px;" />
 </p>
 
 ## Getting started
