@@ -1,6 +1,7 @@
 # Host a Static Website on your Android Phone
-
-<img alt="Android" width="270px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Android_Robot_Head_2023.svg/1024px-Android_Robot_Head_2023.svg.png" style="padding-centre:10px;" />
+<p align="center">
+<img alt="Android" width="220px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Android_Robot_Head_2023.svg/1024px-Android_Robot_Head_2023.svg.png" style="padding-centre:10px;" />
+</p>
 
 ## Getting started
 - Termux is an terminal emulator for Android which you can use for running Linux commands on your phone. 
@@ -8,6 +9,7 @@
 
 ## Installing packages
 Open termux and run the below commands to update package index and install nginx
+
 ```
 pkg update
 pkg install nginx
@@ -18,5 +20,5 @@ pkg install termux-services
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sagarkrp/sagarkrp/blob/main/images/Medium-white1x.png" width="160px" height="35px">
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/Medium-dark.svg" width="160px" height="35px">
-   <img alt="Medium Alternative Theme." src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/Medium-dark.svg" width="160px" height="35px">
+   <img alt="Termux Hosting: Medium." src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/Medium-dark.svg" width="160px" height="35px">
 </picture>
