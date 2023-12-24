@@ -1,6 +1,6 @@
 # Host a Static Website on your Android Phone
 <p align="center">
-<img alt="Android" width="220px" src="https://raw.githubusercontent.com/sagarkrp/HostedOnAndroid/main/tv-banner.svg" style="padding-centre:10px;" />
+<img alt="Android" src="https://raw.githubusercontent.com/sagarkrp/HostedOnAndroid/main/tv-banner.svg" style="padding-centre" />
    
    <br>
 <img alt="Android" width="220px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Android_2023_3D_logo_and_wordmark.svg/1024px-Android_2023_3D_logo_and_wordmark.svg.png" style="padding-centre:10px;" />
