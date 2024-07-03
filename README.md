@@ -19,7 +19,7 @@ pkg install nginx
 pkg install termux-services
 ```
 
-<h3> <strong> Read the detailed article on: </strong> </h3> <a href = "https://sagarkrp.medium.com/how-to-host-a-static-website-on-your-android-phone-c1420dce68b6" target ="_blank">
+<h3> <strong> Read the detailed article on: </strong> </h3> <a href = "https://sagarkrpanda.medium.com/how-to-host-a-static-website-on-your-android-phone-c1420dce68b6" target ="_blank">
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sagarkrp/sagarkrp/blob/main/images/Medium-white1x.png" width="160px" height="35px">
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/Medium-dark.svg" width="160px" height="35px">
